@@ -1,0 +1,1 @@
+{"commandGroups":{"reviews-notification":{"commands":{"list":{"help":{"short":"List Reviews Notification"},"versions":["2021-03-03"]},"show":{"help":{"short":"Show Reviews Notification"},"versions":["2021-03-03"]}},"help":{"short":"Manage Reviews Notification"}}},"help":{"short":"Manage Marketplace Notifications"}}
