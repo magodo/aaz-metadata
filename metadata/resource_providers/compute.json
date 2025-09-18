@@ -1,0 +1,1 @@
+{"commandGroups":{"placement-score":{"commandGroups":{"spot":{"commands":{"generate":{"help":{"short":"Generates placement scores for Spot VM skus."},"versions":["2025-06-05"]},"show":{"help":{"short":"Get Spot Placement Scores metadata."},"versions":["2025-06-05"]}},"help":{"short":"Manage Spot"}}},"help":{"short":"Manage Placement Score"}}},"help":{"short":"Manage Compute"}}

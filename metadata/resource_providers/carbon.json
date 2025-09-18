@@ -1,0 +1,1 @@
+{"commands":{"carbon-emission-report":{"help":{"short":"API for Carbon Emissions Reports"},"versions":["2025-04-01"]},"query-carbon-emission-data-available-date-range":{"help":{"short":"API for query carbon emission data available date range"},"versions":["2025-04-01"]}},"help":{"short":"Manage Carbon"}}
